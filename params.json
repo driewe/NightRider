@@ -1,0 +1,6 @@
+{
+  "name": "Nightrider",
+  "tagline": "Night Rider Project using 3 cascaded 74HC595",
+  "body": "In this project I connected  three 74HC595s in series and entertained myself by simulating KITT from Knightrider.  Would have hooked up the fourth one but was running out of realestate and LEDs.  I should have a another breadboard in a few days along with some 7 segment leds that I will be hooking up and controlling with the 74HC595s.\r\n\r\nFor information on 74HC595 see: https://github.com/driewe/74HC595\r\n\r\n[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/z3Po0Of1n8o/0.jpg)](http://www.youtube.com/watch?v=z3Po0Of1n8o)\r\n\r\nSource Code\r\n[Source Code.](https://github.com/driewe/NightRider/blob/master/sourcecode/nightrider.ino)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
